@@ -1,17 +1,6 @@
 # 🌍 Seismic Classification with Deep Learning
 
-<div align="center">
 
-<!-- TODO: Add project logo -->
-
-[![GitHub stars](https://img.shields.io/github/stars/abeaar/Seismic-classification-DL?style=for-the-badge)](https://github.com/abeaar/Seismic-classification-DL/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/abeaar/Seismic-classification-DL?style=for-the-badge)](https://github.com/abeaar/Seismic-classification-DL/network)
-[![GitHub issues](https://img.shields.io/github/issues/abeaar/Seismic-classification-DL?style=for-the-badge)](https://github.com/abeaar/Seismic-classification-DL/issues)
-<!-- License badge will be added if a LICENSE file is found or a specific license is detected -->
-
-**Deep Learning models for accurate classification of seismic events.**
-
-</div>
 
 ## 📖 Overview
 
